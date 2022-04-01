@@ -2,6 +2,8 @@
 
 ## Tokopedia Software Engineer - Web Platform Submission Form
 
+To see deployment application you can go https://pokemon-tokopedia-indigo-noormuin.vercel.app/#/
+
 Project Assignment
 Web Platform Engineers - Tokopedia
 Requirements:
